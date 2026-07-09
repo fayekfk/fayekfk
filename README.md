@@ -11,7 +11,7 @@
 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=fayekfk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
