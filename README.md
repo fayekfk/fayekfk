@@ -7,14 +7,14 @@
 ![](https://github-readme-stats.shion.dev/api?username=fayekfk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=fayekfk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fayekfk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- 
 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=fayekfk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 
 💰 You can help me by Donating
 
